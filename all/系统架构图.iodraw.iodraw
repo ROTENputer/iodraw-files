@@ -8,25 +8,25 @@
           <mxGeometry x="1190" y="895.5" width="536" height="345" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-49" value="后端层 (Backend Layer)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="625" y="692" width="521" height="628" as="geometry" />
+          <mxGeometry x="625" y="750" width="521" height="570" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-50" value="前端层 (Frontend Layer)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="915" width="413" height="415" as="geometry" />
+          <mxGeometry x="180" y="825.5" width="413" height="415" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-55" value="Vue.js框架" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="115" y="1049" width="107" height="49" as="geometry" />
+          <mxGeometry x="205" y="959.5" width="107" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-56" value="Vue Router" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="318" y="950" width="139" height="49" as="geometry" />
+          <mxGeometry x="408" y="860.5" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-57" value="Vuex状态管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="308" y="1049" width="159" height="49" as="geometry" />
+          <mxGeometry x="398" y="959.5" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-58" value="Element UI/AntD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="296" y="1147" width="182" height="49" as="geometry" />
+          <mxGeometry x="386" y="1057.5" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-59" value="Axios HTTP库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="309" y="1246" width="157" height="49" as="geometry" />
+          <mxGeometry x="399" y="1156.5" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-60" value="Spring Boot框架" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="669" y="965" width="144" height="49" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="evEgyhT0b1L4ouYygxpU-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="evEgyhT0b1L4ouYygxpU-55" target="evEgyhT0b1L4ouYygxpU-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="246" y="974" />
+              <mxPoint x="336" y="884.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -76,14 +76,14 @@
         <mxCell id="evEgyhT0b1L4ouYygxpU-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="evEgyhT0b1L4ouYygxpU-55" target="evEgyhT0b1L4ouYygxpU-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="246" y="1172" />
+              <mxPoint x="336" y="1082.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="evEgyhT0b1L4ouYygxpU-55" target="evEgyhT0b1L4ouYygxpU-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="246" y="1270" />
+              <mxPoint x="336" y="1180.5" />
             </Array>
           </mxGeometry>
         </mxCell>
