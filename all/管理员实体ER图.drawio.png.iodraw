@@ -28,11 +28,12 @@
             <mxPoint x="440" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ccFMOUGV2BH_6c4_-GU-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_ccFMOUGV2BH_6c4_-GU-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.647;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ccFMOUGV2BH_6c4_-GU-32" target="_ccFMOUGV2BH_6c4_-GU-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="400" as="sourcePoint" />
             <mxPoint x="250" y="350" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="160" y="390" />
               <mxPoint x="250" y="400" />
               <mxPoint x="200" y="350" />
             </Array>
