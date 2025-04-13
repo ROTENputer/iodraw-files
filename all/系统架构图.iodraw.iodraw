@@ -64,9 +64,6 @@
         <mxCell id="evEgyhT0b1L4ouYygxpU-71" value="财务流水表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1127.5" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="evEgyhT0b1L4ouYygxpU-72" value="Redis缓存数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1221" y="1156.5" width="177" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="evEgyhT0b1L4ouYygxpU-55" target="evEgyhT0b1L4ouYygxpU-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -166,14 +163,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1429" y="1151.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="evEgyhT0b1L4ouYygxpU-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0.99;entryX=0.45;entryY=0.01;rounded=0;" edge="1" parent="1" source="evEgyhT0b1L4ouYygxpU-60" target="evEgyhT0b1L4ouYygxpU-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="857" y="1424" />
-              <mxPoint x="907" y="1424" />
             </Array>
           </mxGeometry>
         </mxCell>
