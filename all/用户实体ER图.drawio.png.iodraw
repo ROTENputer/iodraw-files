@@ -19,7 +19,7 @@
         <mxCell id="_ccFMOUGV2BH_6c4_-GU-5" value="密码" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="386" y="119" width="63" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_ccFMOUGV2BH_6c4_-GU-6" value="角色" style="rounded=1;arcSize=20;strokeWidth=2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="_ccFMOUGV2BH_6c4_-GU-6" value="头像" style="rounded=1;arcSize=20;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="499" y="119" width="62" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_ccFMOUGV2BH_6c4_-GU-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_ccFMOUGV2BH_6c4_-GU-1" target="_ccFMOUGV2BH_6c4_-GU-2">
