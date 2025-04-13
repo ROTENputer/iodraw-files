@@ -11,22 +11,22 @@
           <mxGeometry x="625" y="692" width="521" height="752" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-50" value="前端层 (Frontend Layer)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="444" y="1464" width="413" height="415" as="geometry" />
+          <mxGeometry x="90" y="915" width="413" height="415" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-55" value="Vue.js框架" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="469" y="1598" width="107" height="49" as="geometry" />
+          <mxGeometry x="115" y="1049" width="107" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-56" value="Vue Router" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="672" y="1499" width="139" height="49" as="geometry" />
+          <mxGeometry x="318" y="950" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-57" value="Vuex状态管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="662" y="1598" width="159" height="49" as="geometry" />
+          <mxGeometry x="308" y="1049" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-58" value="Element UI/AntD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1696" width="182" height="49" as="geometry" />
+          <mxGeometry x="296" y="1147" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-59" value="Axios HTTP库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="663" y="1795" width="157" height="49" as="geometry" />
+          <mxGeometry x="309" y="1246" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-60" value="Spring Boot框架" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="669" y="965" width="144" height="49" as="geometry" />
@@ -70,7 +70,7 @@
         <mxCell id="evEgyhT0b1L4ouYygxpU-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="evEgyhT0b1L4ouYygxpU-55" target="evEgyhT0b1L4ouYygxpU-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="1523" />
+              <mxPoint x="246" y="974" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -82,14 +82,14 @@
         <mxCell id="evEgyhT0b1L4ouYygxpU-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="evEgyhT0b1L4ouYygxpU-55" target="evEgyhT0b1L4ouYygxpU-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="1721" />
+              <mxPoint x="246" y="1172" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="evEgyhT0b1L4ouYygxpU-55" target="evEgyhT0b1L4ouYygxpU-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="1819" />
+              <mxPoint x="246" y="1270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,6 +97,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="1494" />
+              <mxPoint x="540" y="920" />
               <mxPoint x="625" y="1494" />
             </Array>
           </mxGeometry>
