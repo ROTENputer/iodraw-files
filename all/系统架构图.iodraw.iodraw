@@ -13,9 +13,6 @@
         <mxCell id="evEgyhT0b1L4ouYygxpU-50" value="前端层 (Frontend Layer)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="444" y="1464" width="413" height="415" as="geometry" />
         </mxCell>
-        <mxCell id="evEgyhT0b1L4ouYygxpU-51" value="客户端层 (Client Layer)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1533" width="374" height="217" as="geometry" />
-        </mxCell>
         <mxCell id="evEgyhT0b1L4ouYygxpU-52" value="Web浏览器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="73" y="1568" width="139" height="49" as="geometry" />
         </mxCell>
