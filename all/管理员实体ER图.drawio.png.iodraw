@@ -32,11 +32,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="400" as="sourcePoint" />
             <mxPoint x="250" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="390" />
-              <mxPoint x="250" y="400" />
-              <mxPoint x="200" y="350" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
